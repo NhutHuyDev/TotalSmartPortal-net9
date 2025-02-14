@@ -10,11 +10,11 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
   </ItemGroup>
 
-	<ItemGroup>
-		<ProjectReference Include="..\TotalBase\TotalBase.csproj" />
-	</ItemGroup>
+  <ItemGroup>
+	<ProjectReference Include="..\TotalBase\TotalBase.csproj" />
+  </ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="Models\" />
-	</ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
 </Project>
